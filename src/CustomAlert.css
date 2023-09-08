@@ -1,0 +1,9 @@
+.custom-alert{
+    background-color: #F8F9FA;
+    color: red;
+    font-weight: bold;
+    font-family: "Raleway";
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
